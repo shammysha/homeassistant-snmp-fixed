@@ -1,0 +1,14 @@
+{
+  "domain": "snmp-fixed",
+  "name": "SNMP Fixed",
+  "documentation": "https://github.com/shammysha/homeassistant-snmp-fixed",
+  "issue_tracker": "https://github.com/shammysha/homeassistant-snmp-fixed/issues",
+  "requirements": ["pysnmplib==5.0.20"],
+  "config_flow": false,
+  "version": "0.0.1",
+  "codeowners": [
+    "@shammysha"
+  ],
+  "iot_class": "local_polling",
+  "loggers": ["pyasn1", "pysmi", "pysnmp"]
+}

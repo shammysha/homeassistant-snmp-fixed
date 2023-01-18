@@ -1,7 +1,9 @@
 {
-    "name": "Snmp Fix",
+    "name": "Snmp Fixed",
     "domains": [
-        "sensor"
+        "sensor",
+        "switch",
+        "device_tracker"
     ],
     "iot_class": "Cloud Polling",
     "render_readme": true,
