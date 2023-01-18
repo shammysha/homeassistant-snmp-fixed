@@ -1,0 +1,9 @@
+{
+    "name": "Snmp Fix",
+    "domains": [
+        "sensor"
+    ],
+    "iot_class": "Cloud Polling",
+    "render_readme": true,
+    "homeassistant": "2023.1.0"
+}
